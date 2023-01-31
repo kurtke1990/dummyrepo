@@ -1,3 +1,0 @@
-[submodule "dummysubmodule"]
-	path = dummysubmodule
-	url = https://git.barco.com/scm/~kurtke/dummysubmodule.git
